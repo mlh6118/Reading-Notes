@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+Marni's Reading Notes for 09/07/2021
 
-You can use the [editor on GitHub](https://github.com/mlh6118/Reading-Notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Growth Mindset
+A growth mindset is one that does not allow negative thoughts to prevent new learning to occur.  When these negative issues may arise, a growth mindset will reframe the problem into something to be solved rather than hinder any progress to be made.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlh6118/Reading-Notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Three things to ensure a growth mindset are:
+1. Level set, level set, level set!  When feeling like one is not as good as everyone else, get an opinion from someone who is more experienced with it to find out where you actually stack up.  Chances are, it is not as bad as you think.
+2. Remember the Toyota System.  Nothing is perfect and there is room for growth (improvement) in everything.  When something is thought to have become perfect, start analyzing the process all over again and find the new places for growth.
+3. Do not take criticism of work personally.  Sure it can likely be phrased nicer, but the overall content is what matters to help you grow.
