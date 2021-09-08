@@ -15,4 +15,4 @@ A growth mindset is one that does not allow negative thoughts to prevent new lea
 I am a manufacturing engineer that also has a degree in English.  (I like to joke I have two BS degrees.)  I enjoy coding and solving puzzles, so I hope to parlay what I learn in various courses into helping automate processes at my job.  I also enjoy cooking which requires specific steps to be followed to make an enjoyable dish, so I'm no stranger to processes in any way, shape, or form.
 
 ### Portfolio
-My GitHub portfolio page can be found at <https://mlh6118.github.io/>.
+My GitHub portfolio page can be found at <https://mlh6118.github.io/Reading-Notes/>.
