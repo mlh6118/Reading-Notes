@@ -1,4 +1,4 @@
-## Revisions Using GitHub
+## Revisions Using Git
 
 ### Version Control Systems
 <p>There are three types of version control systems: Local (VCS), Centralized (CVCS), and Distributed (DVCS).  Local means a single database stored on a single hard drive.  Centralized means a database on a single server that is accessible to multiple people to store changes and file versions.  Distributed has multiple copies of the same database on various computers and servers, preventing the single-point failure mode that is seen with VCS and CVCS.
