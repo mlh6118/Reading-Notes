@@ -1,4 +1,4 @@
 ## Coding 102
 
 ### Table of Contents
-[reading1] (README.md)
+[reading1] (https://mlh6118.github.io/Reading-Notes/TableOfContents)
