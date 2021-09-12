@@ -59,10 +59,10 @@
         - Have no content and no closing tag.
 1. Anatomy of an HTML document
     - \<!DOCTYPE html>
-    - \<html><\/html>
+    - \<html></html>
       - Wraps all content of page
       - Known as root element
-    - \<head><\/head>
+    - \<head></head>
       - Container for items on page that isn't content
         - Includes:
           - Keywords
@@ -70,10 +70,10 @@
           - CSS
     - \<meta charset="utf-8>
       - Character set that includes most characters from majority of written languages.
-    - \<title><\/title>
+    - \<title></title>
       - Appears at top of tab in browser.
       - Used as default for bookmark/favorite description.
-    - \<body><\/body>
+    - \<body></body>
       - Contains all web page content to view.
     - \<img>
       - Used to add pictures to pages.
@@ -81,11 +81,11 @@
     - \<h#>
       - Headings where the size is dictated by the number that replaces the # in the tag.
     - Lists
-      - \<ul><\/ul>
+      - \<ul></ul>
         - Unordered lists that are shown with bullet points.
-      - \<ol><\/ol>
+      - \<ol></ol>
         - Ordered lists that are numbered.
-      - Each item inside either type of list requires the \<li><\/li> tags.
-    - \<a><\/a>
+      - Each item inside either type of list requires the \<li></li> tags.
+    - \<a></a>
       - Links to a given site.  Typically used with 'href="website.html"'.
     
