@@ -23,12 +23,12 @@ Variables:
   - names must begin with letter, $, or _
   - names are case sensitive
   - reserved words cannot be used as names
-- To declare:
+<p>- To declare:
   - undefined variable
   `var paintColor;`
   or
   - defined variable
-  `var paintColor = "Turqoise";`
+  `var paintColor = "Turqoise";`</p>
 - Best practice is to declare all variables at start of script
 - Can put multiple variables on a single line, just need to separate with a comma (,)
 - re-declaring does not clear the variable value
