@@ -13,5 +13,5 @@ The content of the Coding 102 course is broken down into labs, readings, and eva
 1. [09/11/21a - HTML](HTML.md)
 1. [09/11/21b - CSS](CSS.md)
 1. [09/13/21 - JavaScript](JavaScript.md)
-1. [09/15/21](TBD)
+1. [09/14/21 - Functions and Operators](Functions.md)
 1. [09/16/21](TBD)
