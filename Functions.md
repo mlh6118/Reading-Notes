@@ -21,4 +21,20 @@ Expressions:
 
 ## Functions
 
+Functions are a fundamental building block in JavaScript.
 
+To use them, they must be defined within the scope it is being called from.
+
+Function declarations consist of:
+- Keyword <u>function</u>
+- Name of the function
+- Parameters passed to the function
+- Code block defining the function statements, enclosed in curly brackets
+
+```html
+function area(length, width) {
+  return length * width;
+}
+```
+
+Function scope means something declared within the function cannot be seen outside of that function.
