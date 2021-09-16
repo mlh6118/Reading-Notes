@@ -12,6 +12,6 @@ Many different types of loops:
 - while statement<br>
   `while (condition)<br>
     statement`<br>
-- labeled statement<br>
+- labeled statement</br>
   ```label :
     statement```
