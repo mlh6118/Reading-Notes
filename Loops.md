@@ -13,7 +13,7 @@ Many different types of loops:
   `while (condition)<br>
     statement`<br>
 - labeled statement
-  ```
+  ```html
   label :
       statement
   ```
