@@ -4,8 +4,8 @@ Types of operators:
 - Assignment operators: =, +=, -=, *=, /=, %=, **= (exponential), and more
 - Comparison operators: ==, !=, === (strict equal), !== (strict not equal), >, >=, \<, \<=
 - Arithmetic operators: % (remainder), ++, --, - (returns negative of value), + (returns positive of value), ** (calculates exponents)
-- Bitwise operators: &, \|, ^, ~, \<\<, >>, >>>
-- Logical operators: &&, \|\|, !
+- Bitwise operators: &, "\|", ^, ~, \<\<, >>, >>>
+- Logical operators: &&, "\|\|", !
 - String operators: +, +=
 - Conditional (ternary) operator: condition ? val1 : val2
 - Comma operator: ,
