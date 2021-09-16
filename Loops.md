@@ -13,5 +13,7 @@ Many different types of loops:
   `while (condition)<br>
     statement`<br>
 - labeled statement
-  `label :
-      statement`
+  ```
+  label :
+      statement
+  ```
