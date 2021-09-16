@@ -6,12 +6,12 @@ Many different types of loops:
 - for statement
   ex. for (initial expression; conditional expression; increment expression){ code block }
 - do...while statement<br>
-<p>  `do
-    statement
-  while (condition;)`</p>
+  `do<br>
+    statement<br>
+  while (condition;)`<br>
 - while statement<br>
-<p>  `while (condition)
-    statement`</p>
+  `while (condition)<br>
+    statement`<br>
 - labeled statement<br>
-<p>  `label :
-    statement`</p>
+  `label :<br>
+    statement`<br>
