@@ -1,8 +1,15 @@
+
+# **Table of Contents**
+
+## Coding 201
+
+**Labs**
+
+**Readings**
+1. [09/25/21 - HTML and JavaScript](HTMLandJS.md)
+
 ## Coding 102
 
-The content of the Coding 102 course is broken down into labs, readings, and evaluations.  The readings require the student to generate markdowns based upon them.  Below are what has been done for the 102n57 course.
-
-### **Table of Contents**
 **Labs**
 1. [09/07/21 - Growth Mindset](GrowthMindset.md)
 
