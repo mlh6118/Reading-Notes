@@ -27,14 +27,14 @@ This page will discuss HTML and JavaScript.  CSS will be discussed on a differen
     - Majority of attributes can only be used on certain elements.
 
 ### Elements of a Webpage
-`<body>`
-- Everything inside this tag is shown on the page.<br>
-`<head>`
-- Contains info about the page, including the title.</br>
-`<title>`
-- Title that appears at the top of the webpage window or on the tab for the page.<br/>
-`<!DOCTYPE html>`
-- Used to tell if browsers page is using HTML 5.
-  - If using optional xml, must be first line of document with nothing before it, including white space.
-`<!-- Comments -->`
-- Not visible within the user's browser, but can be seen within the "Inspect Element" window.
+- `<body>`
+  * Everything inside this tag is shown on the page.
+- `<head>`
+  * Contains info about the page, including the title.
+- `<title>`
+  * Title that appears at the top of the webpage window or on the tab for the page.
+- `<!DOCTYPE html>`
+  * Used to tell if browsers page is using HTML 5.
+    * If using optional xml, must be first line of document with nothing before it, including white space.
+- `<!-- Comments -->`
+  * Not visible within the user's browser, but can be seen within the "Inspect Element" window.
