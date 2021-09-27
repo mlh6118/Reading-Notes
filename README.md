@@ -1,12 +1,12 @@
 
 # **Table of Contents**
 
-## Coding 201
+## Coding 201 Reading Notes and Labs
 
 **Labs**
 
 **Readings**
-1. [09/25/21 - HTML and JavaScript](HTMLandJS.md)
+1. [09/25/21 - HTML and JavaScript](class-01.md)
 1. [09/28/21 - HTML, CSS Intro, Basic JavaScript Instructions](TBD)
 1. [10/02/21 - HTML Lists, CSS Boxes, JS Control Flow](TBD)
 1. [10/05/21 - HTML Links, CSS Layout, JS Functions](TBD)
@@ -23,7 +23,7 @@
 1. [11/09/21b - What Google Learned about Teams](TBD)
 
 
-## Coding 102
+## Coding 102 Reading Notes and Labs
 
 **Labs**
 1. [09/07/21 - Growth Mindset](GrowthMindset.md)
