@@ -20,8 +20,9 @@ Next should be organizing and prioritizing the various parts of the site map to 
 
 It is only after consideration of all of the above that any HTML, CSS, and JavaScript should be started.
 
-## Basics of HTML
+## Basics of HTML, CSS, and JavaScript
 
+**HTML**
 HTML is used for setting up the content of a webpage.  There are two types of markups that make up HTML: structural and semantic.
 
 Structural markup are the elements for headings and paragraphs.
@@ -34,3 +35,10 @@ There are many different elements that can be used within HTML, but some common 
 * `<b>` and `<i>`: Bold and italics.
 
 It is important to note that browsers all treat white space the same: As a single space.  This means that two or more spaces, line breaks, etc., are collapsed into a single space when rendered on the screen.
+
+**CSS**
+CSS is used to create rules for how an element's content shall appear on webpage.
+
+It is best to imagine a box around every HTML element when creating CSS.
+
+Multiple elements may have the same style and only need the selectors (how elements are referred to) to be separated by a comma (,).
