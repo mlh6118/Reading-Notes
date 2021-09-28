@@ -13,4 +13,4 @@ Next should be organizing and prioritizing the various parts of the site map to 
 
 It is only after consideration of all of the above that any HTML, CSS, and JavaScript should be started.
 
-# Basics of HTML
+## Basics of HTML
