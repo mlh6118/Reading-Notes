@@ -44,3 +44,6 @@ CSS is used to create rules for how an element's content shall appear on webpage
 It is best to imagine a box around every HTML element when creating CSS.
 
 Multiple elements may have the same style and only need the selectors (how elements are referred to) to be separated by a comma (,).
+
+
+**Source: *HTML & CSS: Design and Build Websites* by Jon Duckett**
