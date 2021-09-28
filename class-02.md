@@ -1,9 +1,16 @@
 # Process of Website Design
 
 Before beginning to generate a website, one needs to go through the design process.  There are specific questions to ask oneself and answer:
--Who is the site for?  Individuals?  Companies?  Both?
--Why are people going to visit the site?  What are key motivations?  What specific goals do they have?
--What are visitors trying to achieve?  What info do they need?  How often will they visit the site?
+- Who is the site for?  
+  - Individuals?
+  - Companies?
+  - Both?
+- Why are people going to visit the site?  
+  - What are key motivations?  
+  - What specific goals do they have?
+- What are visitors trying to achieve?  
+  - What info do they need?  
+  - How often will they visit the site?
 
 Once these questions are answered, a site map can be generated and card sorting to determine how the components of the website should be put together.
 
