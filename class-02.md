@@ -4,6 +4,7 @@
   <li>Who is the site for?  Individuals?  Companies?  Both?</li>
   <li>Why are people going to visit the site?  What are key motivations?  What specific goals do they have?</li>
   <li>What are visitors trying to achieve?  What info do they need?  How often will they visit the site?</li>
+</ul>
 
 Once these questions are answered, a site map can be generated and card sorting to determine how the components of the website should be put together.
 
