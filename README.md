@@ -10,7 +10,7 @@
 1. [09/28/21 - HTML, CSS Intro, Basic JavaScript Instructions](class-02.md)
 1. [10/02/21 - HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
 1. [10/05/21 - HTML Links, CSS Layout, JS Functions](class-04.md)
-1. [10/08/21 - HTML Images; CSS Color & Text](TBD)
+1. [10/08/21 - HTML Images; CSS Color & Text](class-05.md)
 1. [10/12/21 - JS Object Literals; The DOM](TBD)
 1. [10/16/21 - HTML Tables; JS Constructor Functions](TBD)
 1. [10/19/21 - More CSS Layout](TBD)
