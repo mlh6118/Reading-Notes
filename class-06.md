@@ -19,10 +19,10 @@ Literal notation of an object:
 Accessing object contents:
 - Dot notation vs Square bracket syntax
   - Dot notation:
-    - Contents are called using `object.property/method name` (ex. car.model and car.acceleration())
+    - Contents are called using `object.property/method name` (ex. `car.model` and `car.acceleration()`)
   - Square bracket syntax:
     - Used when 
       - Property or method has a special character in the name.
       - Variable is used in place of property name.
-      - `object['property/method name']` (ex. car['model'] and car['acceleration']())
+      - `object['property/method name']` (ex. `car['model']` and `car['acceleration']()`)
 
