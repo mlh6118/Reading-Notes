@@ -26,3 +26,4 @@ Accessing object contents:
       - Variable is used in place of property name.
       - `object['property/method name']` (ex. `car['model']` and `car['acceleration']()`)
 
+**Source: Javascript & Jquery by Jon Duckett**
