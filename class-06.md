@@ -37,6 +37,25 @@ Can use () or []
 | searches HTML for class name             | searches HTML page for what the CSS code would look for  |
 
 ## DOM Manipulation
+1. Create the element  
+  createElement()
+2. Give it content
+  createTextNode()
+3. Add it to the DOM
+  appendChild()
 
+### Removing
+1. Store element to remove in variable (document.getElementBy)
+1. Store parent of element in variable (removeEl.parentNode)
+1. Remove element from containing element (removeChild())
+
+### Attribute Nodes
+1. Select element node with attribute
+  document.getElementByID('one')
+1. Use a method or property to work with attribute
+  getAttribute('class')
+
+  putting it all together:  
+  document.getElementById('one').getAttribute('class');
 
 **Source: Javascript & Jquery by Jon Duckett**
