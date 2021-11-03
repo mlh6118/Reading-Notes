@@ -39,9 +39,9 @@ Can use () or []
 ## DOM Manipulation
 1. Create the element  
   createElement()
-2. Give it content
+2. Give it content  
   createTextNode()
-3. Add it to the DOM
+3. Add it to the DOM  
   appendChild()
 
 ### Removing
@@ -50,9 +50,9 @@ Can use () or []
 1. Remove element from containing element (removeChild())
 
 ### Attribute Nodes
-1. Select element node with attribute
+1. Select element node with attribute  
   document.getElementByID('one')
-1. Use a method or property to work with attribute
+1. Use a method or property to work with attribute  
   getAttribute('class')
 
   putting it all together:  
