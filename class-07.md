@@ -38,3 +38,27 @@ use keyword `this` instead of object name because properties and methods belong 
   use dot notation  
   Ex: `Car.modelYear = 2007;`  
       `delete Car.acceleration;`
+
+### this (keyword)
+
+Used inside functions and objects  
+Where function declared changes what `this` means  
+Always refers to one object
+
+### Arrays
+
+Are objects  
+Key values are the index number  
+Has a length property  
+Can be in an object  
+Can have objects
+
+### Object Model
+
+A group of objcts that represent related things from the real world that combined form a model of something larger  
+Objcects may contain other objects  
+
+1. Browser Object Model (access using `window.property`)
+2. Document Object Model (access using `document.property`)
+3. Global Javascript Objects (access using `function.property`)
+4. 
