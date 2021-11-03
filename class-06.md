@@ -27,7 +27,7 @@ Accessing object contents:
       - `object['property/method name']` (ex. `car['model']` and `car['acceleration']()`)
 
 ## Nodelists
-Index starts at 0
+Index starts at 0<br>
 Can use () or []
 
 | Live                                     | Static                                                   |
@@ -35,5 +35,8 @@ Can use () or []
 | getElementBy...                          | querySelector                                            |
 | updated at same time script updates page | reflect document when query was made, not script changes |
 | searches HTML for class name             | searches HTML page for what the CSS code would look for  |
+
+## DOM Manipulation
+
 
 **Source: Javascript & Jquery by Jon Duckett**
