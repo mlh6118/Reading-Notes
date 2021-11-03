@@ -44,7 +44,8 @@ Format: `element.method(event, code, event flow);`
     
   passing arguments requires workaround  
   - use an anonymous function around named function with arguments  
-  Ex: ```
+  Ex: 
+  ```
   el.addEventListener('blur', function(){  
     checkUsername(5);  
   }, false);
