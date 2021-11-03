@@ -61,4 +61,4 @@ Objcects may contain other objects
 1. Browser Object Model (access using `window.property`)
 2. Document Object Model (access using `document.property`)
 3. Global Javascript Objects (access using `function.property`)
-4. 
+
