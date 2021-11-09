@@ -19,8 +19,8 @@
 1. [10/30/21 - Assorted Topics](TBD)
 1. [11/02/21 - Docs for the HTML \<canvas> Element and Chart.js](TBD)
 1. [11/06/21 - Local Storage](TBD)
-1. [11/09/21a - CSS Transforms, Transitions, and Animations](TBD)
-1. [11/09/21b - What Google Learned about Teams](TBD)
+1. [11/09/21a - CSS Transforms, Transitions, and Animations](class-14a.md)
+1. [11/09/21b - What Google Learned about Teams](class-14b.md)
 
 
 ## Coding 102 Reading Notes and Labs
