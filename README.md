@@ -18,7 +18,7 @@
 1. [10/26/21 - JS Debugging](class-10.md)
 1. [10/30/21 - Assorted Topics](TBD)
 1. [11/02/21 - Docs for the HTML \<canvas> Element and Chart.js](TBD)
-1. [11/06/21 - Local Storage](TBD)
+1. [11/06/21 - Local Storage](class-13.md)
 1. [11/09/21a - CSS Transforms, Transitions, and Animations](class-14a.md)
 1. [11/09/21b - What Google Learned about Teams](class-14b.md)
 
