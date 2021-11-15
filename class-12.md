@@ -55,3 +55,15 @@ let barData = {
         }
     ]
 }
+
+## Canvas
+1. If no width and height specified, default is 300px x 150px.  
+1. id typically supplied to make it easier to idenfity in script.
+1. Can be styled like any normal image, but rules do not affect actual drawing on the canvas.
+1. Fallback content for things like screen readers goes between the `<canvas></canvas>` tags.
+1. Provides one ore more rendering contexts.
+1. To render, use
+```
+let canvas = document.getElemnetByID('variableName');
+let ctx = canvas.getContext('2d');
+```
