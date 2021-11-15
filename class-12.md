@@ -42,9 +42,8 @@ let pieData = [
 ]
 ```
 1. Bar chart
+`new Chart(variableName).Bar(barData);`  
 ```
-new Chart(variableName).Bar(barData);
-
 let barData = {
     labels : [],
     datasets: [
