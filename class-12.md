@@ -55,7 +55,7 @@ let barData = {
         }
     ]
 }
-
+```
 ## Canvas
 1. If no width and height specified, default is 300px x 150px.  
 1. id typically supplied to make it easier to idenfity in script.
@@ -64,6 +64,6 @@ let barData = {
 1. Provides one ore more rendering contexts.
 1. To render, use
 ```
-let canvas = document.getElemnetByID('variableName');
+let canvas = document.getElemnetByID('variableName');  
 let ctx = canvas.getContext('2d');
 ```
