@@ -32,9 +32,8 @@ let <variableName>Data = {
 
 ### Types of Charts and data constructs for above datasets
 1. Line chart  
+`new Chart(<variableName>).Pie(pieData, pieOptions);`
 ```
-new Chart(<variableName>).Pie(pieData, pieOptions);
-
 let pieData = [
     {
         value: <% of pie chart>,  // Do this and the next line for each wedge of the pie.  Separate with a comma between {}'s.
