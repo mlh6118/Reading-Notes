@@ -1,10 +1,12 @@
 
 # **Table of Contents**
+This site contains notes taken from the readings for the different Code Fellows courses in the software development track.
 
-## Coding 201 Reading Notes and Labs
+## Coding 301 - Intermediate Software Development
+**Readings**
+1. [12/4/21 - Introduction to React and Components](pre-work-React.md)
 
-**Labs**
-
+## Coding 201 - Foundations of Software Development
 **Readings**
 1. [09/25/21 - HTML and JavaScript](class-01.md)
 1. [09/28/21 - HTML, CSS Intro, Basic JavaScript Instructions](class-02.md)
@@ -23,8 +25,7 @@
 1. [11/09/21b - What Google Learned about Teams](class-14b.md)
 
 
-## Coding 102 Reading Notes and Labs
-
+## Coding 102 - Intro to Software Development
 **Labs**
 1. [09/07/21 - Growth Mindset](GrowthMindset.md)
 
