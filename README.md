@@ -1,10 +1,19 @@
-
+/
 # **Table of Contents**
 This site contains notes taken from the readings for the different Code Fellows courses in the software development track.
 
 ## Coding 301 - Intermediate Software Development
 **Readings**
-1. [12/4/21 - Introduction to React and Components](pre-work-React.md)
+1. [12/04/21 - Introduction to React and Components](pre-work-React.md)
+1. [12/13/21 - State and Props](state-and-props.md)
+1. [12/16/21 - Passing Functions as Props](passing-functions-as-props.md)
+1. [12/20/21 - React and Forms](react-and-forms.md)
+1. [12/23/21 - Putting it all together](putting-it-all-together.md)
+1. [12/29/21 - NODE.JS](node_js.md)
+1. [01/04/22 - REST](rest.md)
+1. [01/08/22 - APIs](apis.md)
+1. [01/10/22 - Functional Programming](functional-programming.md)
+1. [01/13/22 - In memory storage](in-memory-storage.md)
 
 ## Coding 201 - Foundations of Software Development
 **Readings**
