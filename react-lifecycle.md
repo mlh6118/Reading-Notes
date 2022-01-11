@@ -10,6 +10,7 @@ The basic steps of the React lifecycle occur in the following order:
 * componentDidMount
 * React updates
 * componentWillUnmount
+(Taken from [React: Component Lifecycle Events](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 
 componentDidMount allows us to execute the React code when the component has already been placed in the DOM.  
 (Taken from [ReactJS componentDidMount() Method](https://www.geeksforgeeks.org/reactjs-componentdidmount-method))
