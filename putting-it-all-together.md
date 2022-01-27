@@ -23,4 +23,15 @@ Once the static application is built, interactivity needs to be added using stat
 
 (Taken from [Thinking in React](https://reactjs.org/docs/thinking-in-react.html))
 
+### Higher-Order Functions  
+1. What is a "higher-order function"?  
+Higher-order functions are functions that operate on other functions, either by taking them as arguments or by returning them.  
 
+2. Explore the `greaterThan` function as defined in the reading.  What is line 2 of the function doing?  
+Line 2: `return m => m > n;`  
+This is taking a value that is passed in as "n" and checking if it is great than a value called "m".
+
+3. Explain how either `map` or `reduce` oeprates with regard to higher-order functions.  
+The map method transforms an array by applying a function to all of its elements and building a new array from the returned values.  The new array will have the same length as the input array, but its content will have been mapped to a new form by the function.
+
+(Taken from [Chapter 5: Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK))
