@@ -1,4 +1,3 @@
-/
 # **Table of Contents**
 This site contains notes taken from the readings for the different Code Fellows courses in the software development track.
 
@@ -7,6 +6,9 @@ This site contains notes taken from the readings for the different Code Fellows 
 1. [05/14/22 - Big-O](Big-O.md)
 2. [05/17/22 - Testing and Modules](testing-and-modules.md)
 3. [05/20/22 - FileIO and Exceptions](FileIO-and-Exceptions.md)
+
+**Observations and Learnings**
+1. [Bash Command Line](bash.md)
 
 ## Coding 301 - Intermediate Software Development
 **Readings**
