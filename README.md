@@ -5,6 +5,7 @@ This site contains notes taken from the readings for the different Code Fellows 
 ## Coding 401 - Advanced Software Development
 **Readings**
 1. [05/14/22 - Big-O](Big-O.md)
+2. [05/17/22 - Testing and Modules](testing-and-modules.md)
 
 ## Coding 301 - Intermediate Software Development
 **Readings**
