@@ -6,6 +6,7 @@ This site contains notes taken from the readings for the different Code Fellows 
 **Readings**
 1. [05/14/22 - Big-O](Big-O.md)
 2. [05/17/22 - Testing and Modules](testing-and-modules.md)
+3. [05/20/22 - FileIO and Exceptions](FileIO-and-Exceptions.md)
 
 ## Coding 301 - Intermediate Software Development
 **Readings**
