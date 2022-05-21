@@ -9,6 +9,7 @@ This site contains notes taken from the readings for the different Code Fellows 
 
 **Observations and Learnings**
 1. [Bash Command Line](bash.md)
+2. [SQL Practice](sql_practice.md)
 
 ## Coding 301 - Intermediate Software Development
 **Readings**
