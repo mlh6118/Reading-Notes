@@ -8,6 +8,7 @@ This site contains notes taken from the readings for the different Code Fellows 
 3. [05/20/22 - FileIO and Exceptions](FileIO-and-Exceptions.md)
 4. [05/24/22 - Classes, Objects, Recursion, Test Fixtures](classes-and-objects.md)
 5. [05/31/22 - Linked Lists](linked-lists.md)
+6. [06/04/22 - Random Module, Risk Analysis, and Test Coverage](random-module.md)
 
 **Observations and Learnings**
 1. [Bash Command Line](bash.md)
