@@ -10,6 +10,7 @@ This site contains notes taken from the readings for the different Code Fellows 
 5. [05/31/22 - Linked Lists](linked-lists.md)
 6. [06/04/22 - Random Module, Risk Analysis, and Test Coverage](random-module.md)
 7. [06/07/22 - Scope](scope.md)
+8. [06/10/22 - List Comprehensions](list_comprehensions.md)
 
 **Observations and Learnings**
 1. [Bash Command Line](bash.md)
