@@ -12,6 +12,7 @@ This site contains notes taken from the readings for the different Code Fellows 
 7. [06/07/22 - Scope](scope.md)
 8. [06/10/22 - List Comprehensions](list_comprehensions.md)
 9. [06/14/22 - Probability in Python](probability.md)
+10. [06/25/22 - Pandas](pandas.md)
 
 **Observations and Learnings**
 1. [Bash Command Line](bash.md)
