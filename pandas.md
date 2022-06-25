@@ -1,4 +1,4 @@
-# Pandas
+# pandas
 pandas (all lower-case) is a Python package to work with tabular data, such as 
 spreadsheets and databases.  There are lots of ways to do things in pandas, 
 and there is a "cookbook" to assist with determining how to do what is 
