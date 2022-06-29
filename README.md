@@ -13,6 +13,7 @@ This site contains notes taken from the readings for the different Code Fellows 
 8. [06/10/22 - List Comprehensions](list_comprehensions.md)
 9. [06/14/22 - Probability in Python](probability.md)
 10. [06/25/22 - Pandas](pandas.md)
+11. [06/28/22 - Linear Regression](linear-regresssion.md)
 
 **Observations and Learnings**
 1. [Bash Command Line](bash.md)
