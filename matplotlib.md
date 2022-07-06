@@ -28,5 +28,5 @@ Each of these plots are highly customizable using matplotlibs properties and
 styles that are available.
 
 ##### Sources:
-[Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial)
+[Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial)  
 [Google](http://www.google.com)
