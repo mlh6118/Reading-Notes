@@ -15,6 +15,7 @@ This site contains notes taken from the readings for the different Code Fellows 
 10. [06/25/22 - Pandas](pandas.md)
 11. [06/28/22 - Linear Regression](linear-regresssion.md)
 12. [07/05/22 - matplotlib](matplotlib.md)
+13. [07/09/22 - Trees](trees.md)
 
 **Observations and Learnings**
 1. [Bash Command Line](bash.md)
