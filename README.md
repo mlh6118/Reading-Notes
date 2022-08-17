@@ -17,6 +17,9 @@ This site contains notes taken from the readings for the different Code Fellows 
 12. [07/05/22 - matplotlib](matplotlib.md)
 13. [07/09/22 - Trees](trees.md)
 14. [07/16/22 - Web Scraping](web-scraping.md)
+15. [08/09/22 - Intro to Django](intro_to_Django.md)
+16. [08/13/22 - Django Models](Django_Models.md)
+17. [08/16/22 - Django CRUD and Forms](Django-CRUD.md)
 
 **Observations and Learnings**
 1. [Bash Command Line](bash.md)
