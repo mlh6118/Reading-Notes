@@ -20,6 +20,9 @@ This site contains notes taken from the readings for the different Code Fellows 
 15. [08/09/22 - Intro to Django](intro_to_Django.md)
 16. [08/13/22 - Django Models](Django_Models.md)
 17. [08/16/22 - Django CRUD and Forms](Django-CRUD.md)
+18. [08/20/22 - DjangoX](DjangoX.md)
+19. [08/22/22 - Hash Tables](Hash_tables.md)
+20. [08/28/22 - Django REST Framework](Django-REST.md)
 
 **Observations and Learnings**
 1. [Bash Command Line](bash.md)
