@@ -1,7 +1,7 @@
 # Pythonisms
 ## Dunder Methods
 * Set of predefined methods to enrich classes.
-* Recognized because they start and end with `__` (double underscores.
+* Recognized because they start and end with `__` (double underscores).
 * Also referred to as "magic methods".
 * Let you emulate behavior of built-in types.
 
