@@ -24,6 +24,7 @@ This site contains notes taken from the readings for the different Code Fellows 
 19. [08/22/22 - Hash Tables](Hash_tables.md)
 20. [08/28/22 - Django REST Framework](Django-REST.md)
 21. [10/04/22 - React 4 - Next.js](React4-NextJS.md)
+22. [10/08/22 - Pythonisms](Pythonisms.md)
 
 **Observations and Learnings**
 1. [Bash Command Line](bash.md)
