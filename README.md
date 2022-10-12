@@ -26,6 +26,7 @@ This site contains notes taken from the readings for the different Code Fellows 
 21. [10/04/22 - React 4 - Next.js](React4-NextJS.md)
 22. [10/08/22 - Pythonisms](Pythonisms.md)
 23. [10/11/22 - OSS Contributions](OSS-Contributions.md)
+24. [10/11/22 - Ethics](Ethics.md)
 
 **Observations and Learnings**
 1. [Bash Command Line](bash.md)
